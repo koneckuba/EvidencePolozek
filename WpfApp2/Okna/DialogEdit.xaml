@@ -1,0 +1,82 @@
+﻿<Window x:Class="WpfApp2.Okna.DialogEdit"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp2.Okna"
+        mc:Ignorable="d"
+        Title="DialogEdit" Height="300" Width="350">
+    <Grid Background="Aqua">
+        <Label Content="Název"
+           Width="70"
+           Height="30" 
+           Margin="55,30,0,0" 
+           HorizontalAlignment="Left" 
+           VerticalAlignment="Top"
+           />
+        <TextBox Background="White" 
+               x:Name="ProNazev" 
+               Width="140" 
+               Height="30" 
+               Margin="0,30,55,0" 
+               HorizontalAlignment="Right" 
+               VerticalAlignment="Top"
+               Text="{Binding Nazev, Mode=OneWay}"/>
+
+        <Label Content="Pocet"
+           Width="70"
+           Height="30" 
+           Margin="55,90,0,0" 
+           HorizontalAlignment="Left" 
+           VerticalAlignment="Top"/>
+        <TextBox Background="White" 
+               x:Name="ProPocet" 
+               Width="140" 
+               Height="30" 
+               Margin="0,90,55,0" 
+               HorizontalAlignment="Right" 
+               VerticalAlignment="Top"
+               Text="{Binding Pocet, Mode=OneWay}"/>
+
+        <Label Content="Cena"
+           Width="70"
+           Height="30" 
+           Margin="55,150,0,0" 
+           HorizontalAlignment="Left" 
+           VerticalAlignment="Top"/>
+        <TextBox Background="White" 
+       x:Name="ProCenu" 
+       Width="140" 
+       Height="30" 
+       Margin="0,150,55,0" 
+       HorizontalAlignment="Right" 
+       VerticalAlignment="Top"
+       Text="{Binding Cena, Mode=OneWay}"/>
+
+        <!--<TextBlock Background="White" 
+               x:Name="ProDatum" 
+               Width="140" 
+               Height="30" 
+               Margin="145,150,0,0" 
+               HorizontalAlignment="Left" 
+               VerticalAlignment="Top"/>-->
+        <Button x:Name="Ulozit"
+            Content="Uložit"
+            Width="70"
+            Height="30" 
+            Margin="55,210,0,0" 
+            HorizontalAlignment="Left" 
+            VerticalAlignment="Top"
+            Click="SaveButton"/>
+
+        <Button x:Name="Cancel"
+            Content="Zrušit"
+            Width="70"
+            Height="30" 
+            Margin="0,210,55,0" 
+            HorizontalAlignment="Right" 
+            VerticalAlignment="Top"
+            Click="CancelButton"/>
+
+    </Grid>
+</Window>

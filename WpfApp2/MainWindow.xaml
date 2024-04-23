@@ -1,0 +1,51 @@
+﻿<Window x:Class="WpfApp2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp2"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="600">
+    <Grid Background="MidnightBlue">
+
+        <ListView x:Name="seznam"
+                  Width="350"
+                  Height="350" 
+                  Margin="50,42,0,0" 
+                  VerticalAlignment="Top" 
+                  HorizontalAlignment="Left"/>
+
+        <Button Content="Pridat"
+                Width="70"
+                Height="30"
+                Click="AddButton" 
+                Margin="439,115,0,0" 
+                HorizontalAlignment="Left" 
+                VerticalAlignment="Top"/>
+
+        <Button Content="Zobrazit"
+                Width="70"
+                Height="30"
+                Click="ShowButton" 
+                Margin="439,172,0,0" 
+                HorizontalAlignment="Left" 
+                VerticalAlignment="Top"/>
+
+        <Button Content="Editovat"
+                Width="70"
+                Height="30"
+                Click="EditButton" 
+                Margin="439,236,0,0" 
+                VerticalAlignment="Top" 
+                HorizontalAlignment="Left" />
+
+        <Button Content="Odebrat"
+                Width="70"
+                Height="30"
+                Click="RemoveButton" 
+                Margin="439,294,0,0" 
+                VerticalAlignment="Top" 
+                HorizontalAlignment="Left" />
+
+    </Grid>
+</Window>

@@ -1,0 +1,157 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\22ib16_konecny.SPSJC.002\\source\\repos\\WpfApp2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F677F94A-010C-47BA-AC8C-9FDE76A281BE}|WpfApp2\\WpfApp2.csproj|c:\\users\\22ib16_konecny.spsjc.002\\source\\repos\\wpfapp2\\wpfapp2\\polozka.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F677F94A-010C-47BA-AC8C-9FDE76A281BE}|WpfApp2\\WpfApp2.csproj|solutionrelative:wpfapp2\\polozka.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F677F94A-010C-47BA-AC8C-9FDE76A281BE}|WpfApp2\\WpfApp2.csproj|c:\\users\\22ib16_konecny.spsjc.002\\source\\repos\\wpfapp2\\wpfapp2\\okna\\dialogpridat.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F677F94A-010C-47BA-AC8C-9FDE76A281BE}|WpfApp2\\WpfApp2.csproj|solutionrelative:wpfapp2\\okna\\dialogpridat.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F677F94A-010C-47BA-AC8C-9FDE76A281BE}|WpfApp2\\WpfApp2.csproj|c:\\users\\22ib16_konecny.spsjc.002\\source\\repos\\wpfapp2\\wpfapp2\\okna\\dialogedit.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F677F94A-010C-47BA-AC8C-9FDE76A281BE}|WpfApp2\\WpfApp2.csproj|solutionrelative:wpfapp2\\okna\\dialogedit.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F677F94A-010C-47BA-AC8C-9FDE76A281BE}|WpfApp2\\WpfApp2.csproj|c:\\users\\22ib16_konecny.spsjc.002\\source\\repos\\wpfapp2\\wpfapp2\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F677F94A-010C-47BA-AC8C-9FDE76A281BE}|WpfApp2\\WpfApp2.csproj|solutionrelative:wpfapp2\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F677F94A-010C-47BA-AC8C-9FDE76A281BE}|WpfApp2\\WpfApp2.csproj|c:\\users\\22ib16_konecny.spsjc.002\\source\\repos\\wpfapp2\\wpfapp2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F677F94A-010C-47BA-AC8C-9FDE76A281BE}|WpfApp2\\WpfApp2.csproj|solutionrelative:wpfapp2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F677F94A-010C-47BA-AC8C-9FDE76A281BE}|WpfApp2\\WpfApp2.csproj|c:\\users\\22ib16_konecny.spsjc.002\\source\\repos\\wpfapp2\\wpfapp2\\okna\\dialogpridat.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F677F94A-010C-47BA-AC8C-9FDE76A281BE}|WpfApp2\\WpfApp2.csproj|solutionrelative:wpfapp2\\okna\\dialogpridat.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F677F94A-010C-47BA-AC8C-9FDE76A281BE}|WpfApp2\\WpfApp2.csproj|c:\\users\\22ib16_konecny.spsjc.002\\source\\repos\\wpfapp2\\wpfapp2\\okna\\dialogedit.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F677F94A-010C-47BA-AC8C-9FDE76A281BE}|WpfApp2\\WpfApp2.csproj|solutionrelative:wpfapp2\\okna\\dialogedit.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F677F94A-010C-47BA-AC8C-9FDE76A281BE}|WpfApp2\\WpfApp2.csproj|c:\\users\\22ib16_konecny.spsjc.002\\source\\repos\\wpfapp2\\wpfapp2\\databaze.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F677F94A-010C-47BA-AC8C-9FDE76A281BE}|WpfApp2\\WpfApp2.csproj|solutionrelative:wpfapp2\\databaze.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Databaze.cs",
+              "DocumentMoniker": "C:\\Users\\22ib16_konecny.SPSJC.002\\source\\repos\\WpfApp2\\WpfApp2\\Databaze.cs",
+              "RelativeDocumentMoniker": "WpfApp2\\Databaze.cs",
+              "ToolTip": "C:\\Users\\22ib16_konecny.SPSJC.002\\source\\repos\\WpfApp2\\WpfApp2\\Databaze.cs",
+              "RelativeToolTip": "WpfApp2\\Databaze.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T06:50:02.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DialogEdit.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\22ib16_konecny.SPSJC.002\\source\\repos\\WpfApp2\\WpfApp2\\Okna\\DialogEdit.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp2\\Okna\\DialogEdit.xaml.cs",
+              "ToolTip": "C:\\Users\\22ib16_konecny.SPSJC.002\\source\\repos\\WpfApp2\\WpfApp2\\Okna\\DialogEdit.xaml.cs",
+              "RelativeToolTip": "WpfApp2\\Okna\\DialogEdit.xaml.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAlwBYAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T06:44:09.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DialogEdit.xaml",
+              "DocumentMoniker": "C:\\Users\\22ib16_konecny.SPSJC.002\\source\\repos\\WpfApp2\\WpfApp2\\Okna\\DialogEdit.xaml",
+              "RelativeDocumentMoniker": "WpfApp2\\Okna\\DialogEdit.xaml",
+              "ToolTip": "C:\\Users\\22ib16_konecny.SPSJC.002\\source\\repos\\WpfApp2\\WpfApp2\\Okna\\DialogEdit.xaml",
+              "RelativeToolTip": "WpfApp2\\Okna\\DialogEdit.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-23T06:39:42.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DialogPridat.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\22ib16_konecny.SPSJC.002\\source\\repos\\WpfApp2\\WpfApp2\\Okna\\DialogPridat.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp2\\Okna\\DialogPridat.xaml.cs",
+              "ToolTip": "C:\\Users\\22ib16_konecny.SPSJC.002\\source\\repos\\WpfApp2\\WpfApp2\\Okna\\DialogPridat.xaml.cs",
+              "RelativeToolTip": "WpfApp2\\Okna\\DialogPridat.xaml.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAlwB8AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T06:23:36.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DialogPridat.xaml",
+              "DocumentMoniker": "C:\\Users\\22ib16_konecny.SPSJC.002\\source\\repos\\WpfApp2\\WpfApp2\\Okna\\DialogPridat.xaml",
+              "RelativeDocumentMoniker": "WpfApp2\\Okna\\DialogPridat.xaml",
+              "ToolTip": "C:\\Users\\22ib16_konecny.SPSJC.002\\source\\repos\\WpfApp2\\WpfApp2\\Okna\\DialogPridat.xaml",
+              "RelativeToolTip": "WpfApp2\\Okna\\DialogPridat.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-23T06:21:10.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Polozka.cs",
+              "DocumentMoniker": "C:\\Users\\22ib16_konecny.SPSJC.002\\source\\repos\\WpfApp2\\WpfApp2\\Polozka.cs",
+              "RelativeDocumentMoniker": "WpfApp2\\Polozka.cs",
+              "ToolTip": "C:\\Users\\22ib16_konecny.SPSJC.002\\source\\repos\\WpfApp2\\WpfApp2\\Polozka.cs",
+              "RelativeToolTip": "WpfApp2\\Polozka.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T06:18:11.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\22ib16_konecny.SPSJC.002\\source\\repos\\WpfApp2\\WpfApp2\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WpfApp2\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\22ib16_konecny.SPSJC.002\\source\\repos\\WpfApp2\\WpfApp2\\MainWindow.xaml",
+              "RelativeToolTip": "WpfApp2\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-23T06:06:26.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\22ib16_konecny.SPSJC.002\\source\\repos\\WpfApp2\\WpfApp2\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp2\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\22ib16_konecny.SPSJC.002\\source\\repos\\WpfApp2\\WpfApp2\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WpfApp2\\MainWindow.xaml.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAWwC4AAABmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T06:06:24.721Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
